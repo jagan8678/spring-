@@ -1,0 +1,25 @@
+h1{
+    background-color: rgb(67, 17, 219);
+    text-align: center;
+    color: greenyellow;
+    
+}
+footer{
+    background-color: brown;
+    color:blueviolet
+    
+}
+.dropdown-item {
+    color: pink; /* Fallback for browsers that do not support rgba */
+    background-color: rgba(255, 192, 203, 0.2); /* Light pink background */
+  }
+  .dropdown-item:hover {
+    background-color: rgba(255, 192, 203, 0.4); /* Darker pink background on hover */
+  }
+ 
+h4{
+    color: cadetblue;
+}
+h3{
+    color: crimson;
+}
